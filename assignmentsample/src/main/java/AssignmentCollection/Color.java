@@ -11,6 +11,7 @@ public class Color {
 		cl.add("White");
 		cl.add("Blue");
 		cl.add("Green");
+		cl.add("ash");
 		System.out.println(cl);
 		
 		System.out.println(cl.get(3));
