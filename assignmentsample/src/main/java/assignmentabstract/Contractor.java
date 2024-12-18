@@ -1,6 +1,7 @@
 package assignmentabstract;
 
 public class Contractor extends Employee {
+	
 
 	private int perhr;
 	private int wrkhr;
