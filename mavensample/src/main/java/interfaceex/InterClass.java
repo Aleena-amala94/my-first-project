@@ -7,6 +7,7 @@ public class InterClass implements InterfaceExample{
 		InterfaceExample obj=new InterClass();
 		obj.display();
 		System.out.println(obj.a);
+		System.out.println(obj.s);
 	}
 
 	@Override
